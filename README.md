@@ -1,0 +1,2 @@
+# inspect
+MoonScript Inspect Table
